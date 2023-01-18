@@ -42,11 +42,6 @@ body {
         </li>
 <div id="lavalamp"></div>     
 </ul>
-
-<div id="particles-js"></div>
-<script src="particles.js"></script>
-<script src="app.js"></script>
-
 </Body>
 </html>
 
